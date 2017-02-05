@@ -1,6 +1,6 @@
 # 2017 Goals
 
-My goals for things I want to accomplish this year. My good friend [Afonso Pacifer](https://github.com/afonsopacifer/2017-goals) inspired me to openly work on my goals.
+My goals for things I want to accomplish this year. My boyfriend [Afonso Pacifer](https://github.com/afonsopacifer/2017-goals) inspired me to openly work on my goals.
 
 ## Big Goals
 - [ ] Impove my english level
