@@ -1,14 +1,14 @@
 # Only a study list for iprove my english!
 ## Dream big, set goals and take actions. Yes, we can do it!
-![Yes, we can do it!](http://cdn.playbuzz.com/cdn/70965f93-6e0e-43fa-8302-2bf2607167d4/526b998d-c415-41ce-b472-4034a8b49af0.gif)
+![goal image](image/goal.gif)
 
 ## Tools
 - [Anki](http://ankisrs.net/) - Spaced repetition software
 - [Michaelis](http://michaelis.uol.com.br/) - Portuguesse/english dictionary
 - [Duolingo](https://www.duolingo.com/simoneas02) - Diversify vocabulary
 - [HiNative](https://hinative.com/en-US) - Informal writing with natives
-- [Forvo](https://pt.forvo.com/) - Search for correct pronunciations.
-- [Agenda Web](http://www.agendaweb.org/) - Listening, reading and practice.
+- [Forvo](https://pt.forvo.com/) - Search for correct pronunciations
+- [Agenda Web](http://www.agendaweb.org/) - Listening, reading and practice
 
 ## Rules for week
 - Read a short text
