@@ -31,8 +31,8 @@ I want to learn new things for share with the world, below are anythings that I'
 ### Talks
 - [x] [Variáveis Nativas com CSS](https://speakerdeck.com/simoneas02/variaveis-nativas-com-css) at Geek Night Recife in February 2017.
 - [x] [Acelerando o tempo com CSS Grid Layout e senna.js](https://speakerdeck.com/simoneas02/acelerando-o-tempo-com-css-grid-layout-e-senna-dot-js) at Liferay Recife in March 2017.
-- [ ] [Acelerando o tempo com CSS Grid Layout](#) at Hangout GDG-BH in April 2017.
-- [ ] [Das tabelas ao futuro com CSS Grid Layout](#) at 19º Encontro Locaweb Recife in April 2017.
+- [x] [Acelerando o tempo com CSS Grid Layout](#) at Hangout GDG-BH in April 2017.
+- [x] [Das tabelas ao futuro com CSS Grid Layout](#) at 19º Encontro Locaweb Recife in April 2017.
 
 ### Articles
 - [x] [Adeus Flexbox, bem vindo CSS Grid Layout!](http://codepen.io/simoneas02/post/grid-layout) in March 2017.
