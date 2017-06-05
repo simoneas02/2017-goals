@@ -30,8 +30,8 @@
 ## Extras
 
 | Month | Book | Status |
-|---    |---   |:---:     |
-|  Apr  | Grid Layout in CSS - Eric Meyer|![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+|---    |---   |:---:   |
+| May   | Trabalhe 4 Horas por Semana - Timothy Ferriss | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 
 ## Available on Library
 
