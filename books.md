@@ -31,7 +31,7 @@
 
 | Month | Book | Status |
 |---    |---   |:---:   |
-| May   | Trabalhe 4 Horas por Semana - Timothy Ferriss | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+| Jun   | Trabalhe 4 Horas por Semana - Timothy Ferriss | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 
 ## Available on Library
 
