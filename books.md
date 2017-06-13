@@ -20,7 +20,7 @@
 |  <s>Apr</s>  | <s>A Web Mobile - Sérgio Lopes</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  May  |Código Limpo - Robert Martin | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Jun  | O Programador Apaixonado - Chad Fowler  | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
-|  Jul  | HTML5 Entendndo e Executando - Maerk Pilgrim|![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+|  Jul  | HTML5 Entendndo e Executando - Maerk Pilgrim|![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  Aug  | Javascript. O Guia Definitivo - David Flanagan |![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 |  Sep  | Javascript. O Guia Definitivo - David Flanagan |![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Oct  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
