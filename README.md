@@ -48,6 +48,8 @@ I want to learn some Javascript Frameworks and create any project with them
 - ReactJS
     - [ ] [Alarm clock for developers](https://github.com/simoneas02/react-alarm-clock)
     - [ ] [React ES6 Reference](https://github.com/simoneas02/react-cheatsheet)
+    - [ ] [TODO List](https://github.com/simoneas02/react-todo)
+    - [ ] [Lista de Contratos](https://github.com/simoneas02/contracts-list)
 - Vue.js
 - Ember.js
 
