@@ -16,12 +16,12 @@
 |---    |---   |:---:     |
 |  <s>Jan</s>  | <s>Como organizar sua vida finanaceira - Gustavo Cerbasi</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  <s>Feb</s>  | <s>Coletânea Front-end - Almir Filho/ Bernard de Luna/ Caio Gondim/ </br>Deivid Marques/ Diego Eis/ Eduardo Shiota/ Giovanni Keppelen/ </br>Jaydson Gomes/ Luiz Corte Real/ Reinado Ferraz/ Sérgio Lopes </s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  Mar  | TED Talks - Chris Anderson | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
-|  Apr  | A Web Mobile - Sérgio Lopes | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+|  <s>Mar</s>  | <s>TED Talks - Chris Anderson</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  <s>Apr</s>  | <s>A Web Mobile - Sérgio Lopes</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  May  |Código Limpo - Robert Martin | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Jun  | O Programador Apaixonado - Chad Fowler  | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
-|  Jul  | HTML5 Entendndo e Executando - Maerk Pilgrim|![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
-|  Aug  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
+|  <s>Jul</s>  | <s>HTML5 Entendndo e Executando - Maerk Pilgrim</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  Aug  | Javascript. O Guia Definitivo - David Flanagan |![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 |  Sep  | Javascript. O Guia Definitivo - David Flanagan |![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Oct  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Nov  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
@@ -30,8 +30,8 @@
 ## Extras
 
 | Month | Book | Status |
-|---    |---   |:---:     |
-|  Apr  | Grid Layout in CSS - Eric Meyer|![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+|---    |---   |:---:   |
+| Jun   | Trabalhe 4 Horas por Semana - Timothy Ferriss | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 
 ## Available on Library
 
