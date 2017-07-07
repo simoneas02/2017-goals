@@ -33,6 +33,7 @@ I want to learn new things for share with the world, below are anythings that I'
 - [x] [Acelerando o tempo com CSS Grid Layout e senna.js](https://speakerdeck.com/simoneas02/acelerando-o-tempo-com-css-grid-layout-e-senna-dot-js) at Liferay Recife in March 2017.
 - [x] [Acelerando o tempo com CSS Grid Layout](https://speakerdeck.com/simoneas02/css-grid-layout) at Hangout GDG-BH in April 2017.
 - [x] [Das tabelas ao futuro com CSS Grid Layout](https://speakerdeck.com/simoneas02/das-tabelas-ao-grid-css) at 19º Encontro Locaweb Recife in April 2017.
+- [x] [Starting with CSS Grid Layout](#) at CSS Day Maceió in Octuber 2017.
 
 ### Workshop
 - [x] [Workshop: Dominando CSS Layouts na prática com Grid Layout](https://github.com/simoneas02/youtube-css-grid).
@@ -53,9 +54,12 @@ I want to learn some Javascript Frameworks and create any project with them
 - ReactJS
     - [ ] [Alarm clock for developers](https://github.com/simoneas02/react-alarm-clock)
     - [ ] [React ES6 Reference](https://github.com/simoneas02/react-cheatsheet)
-    - [ ] [TODO List](https://github.com/simoneas02/react-todo)
+    - [ ] [React TODO](https://github.com/simoneas02/react-todo)
     - [ ] [Lista de Contratos](https://github.com/simoneas02/contracts-list)
+
 - Vue.js
+    - [ ] [VUE TODO](https://github.com/simoneas02/vue-todo)
+
 - Ember.js
 
 <hr>

@@ -58,6 +58,7 @@
 | Os desafios à força de vontade - Kelly McGonigal |
 | Casais inteligentes enriquecem juntos - Gustavo Cerbasi |
 | Pais inteligentes enriquecem seus filhos - Gustavo Cerbasi |
+| Não me faça pensar - Steve Krug |
 
 
 ### [<-- Back](https://github.com/simoneas02/2017-goals)
