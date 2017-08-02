@@ -13,8 +13,8 @@
 
 <hr>
 
-## Impove my english level
-- [ ] [Only a study list for iprove my english!](studying-english.md)
+## Improve my english level
+- [ ] [Only a study list for improve my english!](studying-english.md)
 
 <hr>
 
