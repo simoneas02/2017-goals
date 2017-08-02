@@ -2,7 +2,7 @@
 ✨ 💟 ✨ My professional and personal goals for this year inspired by my boyfriend [Afonso Pacifer](https://github.com/afonsopacifer/2017-goals).
 
 ## Big Goals
-- [ ] [Impove my english level](#impove-my-english-level)
+- [ ] [Improve my english level](#impove-my-english-level)
 - [ ] [Become a front-end developer](#become-a-front-end-developer)
 - [ ] [Become a CSS Evangelist](#become-a-css-evangelist)
 - [ ] [Learning Javascript Frameworks](#learning-javascript-frameworks)
