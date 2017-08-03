@@ -33,8 +33,8 @@ I want to learn new things for share with the world, below are anythings that I'
 - [x] [Acelerando o tempo com CSS Grid Layout e senna.js](https://speakerdeck.com/simoneas02/acelerando-o-tempo-com-css-grid-layout-e-senna-dot-js) at Liferay Recife in March 2017.
 - [x] [Acelerando o tempo com CSS Grid Layout](https://speakerdeck.com/simoneas02/css-grid-layout) at Hangout GDG-BH in April 2017.
 - [x] [Das tabelas ao futuro com CSS Grid Layout](https://speakerdeck.com/simoneas02/das-tabelas-ao-grid-css) at 19º Encontro Locaweb Recife in April 2017.
-- [] [Front-end na vida real](#) at AESO - Barros Melo in August 2017.
-- [] [Starting with CSS Grid Layout](#) at CSS Day Recife in September 2017.
+- [ ] [Front-end na vida real](#) at AESO - Barros Melo in August 2017.
+- [ ] [Starting with CSS Grid Layout](#) at CSS Day Recife in September 2017.
 
 ### Workshop
 - [x] [Workshop: Dominando CSS Layouts na prática com Grid Layout](https://github.com/simoneas02/youtube-css-grid).
