@@ -18,7 +18,7 @@
 |  <s>Feb</s>  | <s>Coletânea Front-end - Almir Filho/ Bernard de Luna/ Caio Gondim/ </br>Deivid Marques/ Diego Eis/ Eduardo Shiota/ Giovanni Keppelen/ </br>Jaydson Gomes/ Luiz Corte Real/ Reinado Ferraz/ Sérgio Lopes </s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  <s>Mar</s>  | <s>TED Talks - Chris Anderson</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  <s>Apr</s>  | <s>A Web Mobile - Sérgio Lopes</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  May  |Código Limpo - Robert Martin | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
+|  May  |Código Limpo - Robert Martin | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 |  Jun  | O Programador Apaixonado - Chad Fowler  | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  <s>Jul</s>  | <s>HTML5 Entendndo e Executando - Maerk Pilgrim</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  Aug  | Javascript. O Guia Definitivo - David Flanagan |![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
