@@ -84,7 +84,7 @@ I want to learn some Javascript Frameworks and create any project with them
 <hr>
 
 ## Starting new job
-I'm looking for new job where I can to pratice my new skills
+<s>I'm looking for new job where I can to pratice my new skills</s>
 
 <hr>
 
