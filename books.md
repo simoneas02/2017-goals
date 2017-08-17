@@ -21,7 +21,7 @@
 |  May  |Código Limpo - Robert Martin | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 |  Jun  | O Programador Apaixonado - Chad Fowler  | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  <s>Jul</s>  | <s>HTML5 Entendndo e Executando - Maerk Pilgrim</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  Aug  | Javascript. O Guia Definitivo - David Flanagan |![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+|  <s>Aug</s>  | <s>Trabalhe 4 Horas por Semana - Timothy Ferriss</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  Sep  | Javascript. O Guia Definitivo - David Flanagan |![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Oct  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Nov  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
@@ -31,7 +31,7 @@
 
 | Month | Book | Status |
 |---    |---   |:---:   |
-| Jun   | Trabalhe 4 Horas por Semana - Timothy Ferriss | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
+|  Aug  | MEAN. Full stack JavaScript para aplicações web com MongoDB Express Angular e Node - Flávio Almeida |![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
 
 ## Available on Library
 
@@ -39,7 +39,6 @@
 |---   |
 | O poder do habito - Duhigg, Charles |
 | Rapido e devagar - Daniel Kahneman |
-| Trabalhe 4 Horas por Semana - Timothy Ferriss |
 | Não deixe para depois o que você pode fazer agora - Rita Emmett |
 | Dinheiro: Os segredos de quem tem - Gustavo Cerbasi |
 | Mais Esperto que o Diabo - Napoleon Hill |
