@@ -33,14 +33,17 @@ I want to learn new things for share with the world, below are anythings that I'
 - [x] [Acelerando o tempo com CSS Grid Layout e senna.js](https://speakerdeck.com/simoneas02/acelerando-o-tempo-com-css-grid-layout-e-senna-dot-js) at Liferay Recife in March 2017.
 - [x] [Acelerando o tempo com CSS Grid Layout](https://speakerdeck.com/simoneas02/css-grid-layout) at Hangout GDG-BH in April 2017.
 - [x] [Das tabelas ao futuro com CSS Grid Layout](https://speakerdeck.com/simoneas02/das-tabelas-ao-grid-css) at 19º Encontro Locaweb Recife in April 2017.
-- [ ] [Front-end na vida real](#) at AESO - Barros Melo in August 2017.
-- [ ] [Starting with CSS Grid Layout](#) at CSS Day Recife in September 2017.
+- [x] [Front-end na vida real](https://speakerdeck.com/simoneas02/front-end-na-vida-real) at AESO - Barros Melo in August 2017.
+- [x] [Você precisa de um framework CSS?](https://speakerdeck.com/simoneas02/voce-precisa-de-um-framework-css) at FEMUG-PE in August 2017.
+- [x] [Montando layouts em um mini game chamado Browser](https://speakerdeck.com/simoneas02/montando-layouts-em-um-mini-game-chamado-browser) at CSS Day Recife in September 2017.
 
 ### Workshop
 - [x] [Workshop: Dominando CSS Layouts na prática com Grid Layout](https://github.com/simoneas02/youtube-css-grid).
 
 ### Articles
 - [x] [Adeus Flexbox, bem vindo CSS Grid Layout!](http://codepen.io/simoneas02/post/grid-layout) in March 2017.
+- [x] [Você precisa de um Framework CSS?](https://medium.com/@simoneas02/voc%C3%AA-precisa-de-um-framework-css-922c02ade6a5)
+- [x] [O dia em que as mulheres dominaram o palco em um evento de TI ❤](https://medium.com/@simoneas02/o-dia-em-que-as-mulheres-dominaram-o-palco-em-um-evento-de-ti-46f27669e8d)
 - [ ] [Desvendando os segredos do CSS Grid Layout](#).
 - [ ] [Variáveis CSS - A Vingança da Plataforma](#).
 
@@ -84,7 +87,7 @@ I want to learn some Javascript Frameworks and create any project with them
 <hr>
 
 ## Starting new job
-<s>I'm looking for new job where I can to pratice my new skills</s>
+- [x] <s>I'm looking for new job where I can to pratice my new skills</s>
 
 <hr>
 
