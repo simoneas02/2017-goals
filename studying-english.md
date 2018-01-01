@@ -13,13 +13,9 @@
 - Add cards for spaced repetition
 - Do spaced repetition
 - To study with Duolingo
-- Search new words in the Forvo before of add in the Anki
 
 ## Goals
-
 - [ ] Add 50 cards in the anki
 - [ ] Review 5 activity of Duolingo
 - [ ] To read a book
-- [ ] Watch two conference talks
-- [ ] Write 10 asks in the HiNative
-- [ ] To do 5 activity in the Agenda Web
+- [x] Watch two conference talks

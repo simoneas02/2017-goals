@@ -18,11 +18,11 @@
 |  <s>Feb</s>  | <s>Coletânea Front-end - Almir Filho/ Bernard de Luna/ Caio Gondim/ </br>Deivid Marques/ Diego Eis/ Eduardo Shiota/ Giovanni Keppelen/ </br>Jaydson Gomes/ Luiz Corte Real/ Reinado Ferraz/ Sérgio Lopes </s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  <s>Mar</s>  | <s>TED Talks - Chris Anderson</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  <s>Apr</s>  | <s>A Web Mobile - Sérgio Lopes</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  May  |Código Limpo - Robert Martin | ![book](https://rawgit.com/afonsopacifer/2017-goals/master/icons/book.svg) |
-|  Jun  | O Programador Apaixonado - Chad Fowler  | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
+| <s>May</s>  | <s>You Don't Know JS: Up & Going - Kyle Simpson</s> | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
+|  <s>Jun</s>  | <s>You Don't Know JS: Scope & Closures - Kyle Simpson</s>  | ![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  <s>Jul</s>  | <s>HTML5 Entendndo e Executando - Maerk Pilgrim</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
 |  <s>Aug</s>  | <s>Trabalhe 4 Horas por Semana - Timothy Ferriss</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg) |
-|  Sep  | Javascript. O Guia Definitivo - David Flanagan |![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
+|  <s>Sep</s>  | <s>You Don't Know JS: this & Object Prototypes - Kyle Simpson</s> |![done](https://rawgit.com/afonsopacifer/2017-goals/master/icons/done.svg)|
 |  Oct  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Nov  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
 |  Dec  | Javascript. O Guia Definitivo - David Flanagan | ![wait](https://rawgit.com/afonsopacifer/2017-goals/master/icons/wait.svg) | Available on library |
