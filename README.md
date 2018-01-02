@@ -36,7 +36,7 @@ I want to learn new things for share with the world, below are anythings that I'
 - [x] [Front-end na vida real](https://speakerdeck.com/simoneas02/front-end-na-vida-real) at AESO - Barros Melo in August 2017.
 - [x] [Você precisa de um framework CSS?](https://speakerdeck.com/simoneas02/voce-precisa-de-um-framework-css) at FEMUG-PE in August 2017.
 - [x] [Montando layouts em um mini game chamado Browser](https://speakerdeck.com/simoneas02/montando-layouts-em-um-mini-game-chamado-browser) at CSS Day Recife in September 2017.
-- [x] [Manipulando CSS em produção com JS]() at JS Day Recife in December 2017.
+- [x] [Manipulando CSS em produção com JS](https://speakerdeck.com/simoneas02/manipulando-css-em-producao-com-js) at JS Day Recife in December 2017.
 
 ### Workshop
 - [x] [Workshop: Dominando CSS Layouts na prática com Grid Layout](https://github.com/simoneas02/youtube-css-grid).
